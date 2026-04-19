@@ -52,6 +52,8 @@ python app.py
 ## 📎 Project File
 
 Refer to implementation: 
+Output Link : https://f98fefc5670e19f0ff.gradio.live
+
 
 ## 🌟 Future Improvements
 
